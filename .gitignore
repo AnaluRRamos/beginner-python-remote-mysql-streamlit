@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+data/*
+!data/.gitkeep
+*.pem
+*.crt
