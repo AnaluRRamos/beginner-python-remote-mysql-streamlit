@@ -44,8 +44,9 @@ A minimal layout that keeps things tidy:
 │  └─ dashboard_app.py        # Streamlit app to visualise Adj Close & Volume
 └─ README.md
 ```
+
 The data can be found: https://www.kaggle.com/datasets/suruchiarora/yahoo-finance-dataset-2018-2023/data
----
+
 
 ## 1) Create a connection in MySQL Workbench (remote)
 
