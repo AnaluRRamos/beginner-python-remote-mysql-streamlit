@@ -42,7 +42,7 @@ A minimal layout that keeps things tidy:
 ├─ src/
 │  ├─ connect_mysql.py        # prompts for credentials and tests the connection
 │  ├─ import_data.py          # reads CSV/XLSX and inserts into MySQL in batches
-│  └─ dashboard_app.py        # Streamlit app to visualise Adj Close & Volume
+│  └─ plot_data.py        # Streamlit app to visualise Adj Close & Volume
 └─ README.md
 ```
 
@@ -141,7 +141,7 @@ python src/import_data.py data/yahoo_data.xlsx
 Run the app:
 
 ```bash
-streamlit run src/dashboard_app.py
+streamlit run src/plot_data.py
 ```
 
 * In the **left sidebar**, enter your Aiven host/port/user/password/database and (if needed) CA path.
