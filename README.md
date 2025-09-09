@@ -36,6 +36,7 @@ A minimal layout that keeps things tidy:
 
 ```
 .
+├─ requirements.txt
 ├─ data/
 │  └─ yahoo_data.xlsx         # or yahoo_data.csv
 ├─ src/
