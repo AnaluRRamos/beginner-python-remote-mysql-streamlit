@@ -1,4 +1,4 @@
-# Beginner Python: Remote MySQL + Streamlit Dashboard (Yahoo Finance)
+
 # Remote Database + MySQL + Yahoo Finance Pipeline (Beginner‑Friendly)
 
 Build a tiny end‑to‑end pipeline that goes from a spreadsheet to a remote MySQL database on **Aiven** and then into a **Streamlit** dashboard, with credentials prompted at runtime (nothing sensitive hard‑coded).
